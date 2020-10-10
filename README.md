@@ -1,4 +1,4 @@
-**Info & How to Download**
+**Info**
 
 *These are extra scripts, don't edit these.*
 
